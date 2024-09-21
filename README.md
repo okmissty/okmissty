@@ -1,5 +1,5 @@
 # 💫 About Me:
-### ⭐Hello World, my name is Tyeon! <br>(Tie-on) she/her <br/><br><br>🌸 A leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. I've been interested in computing from a young age and have been building up my skillset ever since. <br><br>🌸 Interested in: Software Engineering/Development, Cloud Computing, Information Technology<br><br>🌸 Languages: Python, Java, HTML<br><br>🌸 Side Projects: WIP <br><br>⭐ Fun fact: I'm also an artist and do art commissions on the side!
+### ⭐Hello World, my name is Tyeon! <br>(Tie-on) she/her <br/><br><br>🌸 A natural leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. I've been interested in computing from a young age and have been building up my skillset ever since. <br><br>🌸 Interested in: Software Engineering/Development, Cloud Computing, Information Technology<br><br>🌸 Main Languages: Python, Java, HTML<br><br>🌸 Side Projects: WIP <br><br>⭐ Fun fact: I'm also an artist and do art commissions on the side!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tyeon-ford) 
@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=okmissty&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
