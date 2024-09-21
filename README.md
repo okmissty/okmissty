@@ -1,6 +1,7 @@
 # 💫 About Me:
 ### ⭐Hello World, my name is Tyeon! <br>(Tie-on) she/her <br/><br><br>🌸 A natural leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. I've been interested in computing from a young age and have been building up my skillset ever since. <br><br>🌸 Interested in: Software Engineering/Development, Cloud Computing, Information Technology<br><br>🌸 Main Languages: Python, HTML, Java<br><br>🌸 Current Side Projects: Portfolio Website/Blog, Progamming Dressup Game   <br><br>⭐ Fun fact: I'm also an artist and do art commissions on the side!
 
+Note: My old repositories were erased on my highschool github, so I'm rebuilding my porfolio here!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tyeon-ford) 
 
