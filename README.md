@@ -10,10 +10,6 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 
 ![Tyeons's GitHub stats](https://github-readme-stats.vercel.app/api?username=okmissty&show_icons=true&theme=jolly)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=okmissty&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
