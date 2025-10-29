@@ -1,5 +1,17 @@
-# 💫 About Me:
-⭐Hello World, my name is Tyeon! <br>(Tie-on) she/her <br/><br><br>🌸 A natural leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. I've been interested in computing from a young age and have been building up my skillset ever since. <br><br>🌸 Interested in: Software Engineering, Game Development, Cloud Computing, Information Technology<br><br>🌸 Main Languages: Python, HTML, Java, C++ <br><br>🌸 Current Side Projects: Cosmosic Cafe, Updating Portfolio Website/Blog, Updating my Dressup Game, preparing for hackathons (I'm running a hackathon at my University called SpiderHacks! Coming Dec 2025 <br><br>⭐ School makes it tough to have more projects! but I aim for making something new every break.
+<h1 align="center">Hello World, my name is Tyeon! 👋</h1>
+
+<p align="center">
+  <em>Looking for a Summer 2026 Internship!</em>
+</p>
+💫 About Me:
+<br>⭐(Tie-on) she/her <br>
+
+[Windows XP Themed Linktree/Portfolio Site](tfportfolio.carrd.co)
+
+<br>🌸 A natural leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. I've been interested in computing from a young age and have been building up my skillset ever since. <br>
+<br>🌸 Interested in: Software Engineering, Game Development, Cloud Computing, Information Technology<br>
+<br>🌸 Main Languages: Python, HTML, Java, C++ <br>
+<br>🌸 Current Side Projects: Cosmosic Cafe, Updating Portfolio Website/Blog, Updating my Dressup Game, preparing for hackathons (I'm running a hackathon at my University called SpiderHacks! Coming Dec 2025 <br><br>⭐ School makes it tough to have more projects! but I aim for making something new every break.
 
 Note: My old repositories were erased on my highschool github, so I'm rebuilding my porfolio here!
 ## 🌐 Socials:
@@ -10,3 +22,25 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 
 ### ✍️ Random Dev Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+---
+
+### 🚧 Projects I've Worked On
+
+| 🧩 Project | ⚙️ Description |
+|-----------|----------------|
+| **Cosmosic Cafe** | Inspired by a real location in Richmond, VA called Galaxy Diner. A space themed cafe that sells out of this world concoctions and treats!|
+| **Whodunit Game** | A clue-solving detective game where logic and deduction lead to solving mysteries |
+| **Landing Page** | A clean, responsive front-end landing site built using HTML, CSS, and PicoCSS for a fictional product/service |
+    
+
+---
+
+<p align="center">
+  <img src="https://iili.io/FE5dALF.gif" alt="FE5dALF animation" width="100%" />
+</p>
+
+
