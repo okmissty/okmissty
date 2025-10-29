@@ -10,7 +10,7 @@
 
 <br>🌸 A natural leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. I've been interested in computing from a young age and have been building up my skillset ever since. <br>
 <br>🌸 Interested in: Software Engineering, Game Development, Cloud Computing, Information Technology<br>
-<br>🌸 Main Languages: Python, HTML, Java, C++ <br>
+<br>🌸 Main Languages: Java, C++, Python, HTML <br>
 <br>🌸 Current Side Projects: Cosmosic Cafe, Updating Portfolio Website/Blog, Updating my Dressup Game, preparing for hackathons (I'm running a hackathon at my University called SpiderHacks! Coming Dec 2025 <br><br>⭐ School makes it tough to have more projects! but I aim for making something new every break.
 
 Note: My old repositories were erased on my highschool github, so I'm rebuilding my porfolio here!
