@@ -20,7 +20,7 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 
 | 🧩 Project | ⚙️ Description |
 |-----------|----------------|
-| **Cosmosic Cafe** | Inspired by a real location in Richmond, VA called Galaxy Diner. A space themed cafe that sells out of this world concoctions and treats!|
+| **Cosmosic Cafe** | Inspired by a real location in Richmond, VA called Galaxy Diner. A game based in a space themed cafe that sells out of this world concoctions and treats!|
 | **MIPS Assembler & CPU Processor** | Built from scratch for my Computer Organization class, the assembler turns MIPS instructions into binary. While the Processor takes the binary encoded instructions and processes them |
 | **Dresscode** | A simple web-based dress up game where users can drag and drop clothes and accessories onto a character. All assets and code are done by me! |
 
