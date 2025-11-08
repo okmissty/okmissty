@@ -20,7 +20,9 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 
 | 🧩 Project | ⚙️ Description |
 |-----------|----------------|
-| **Cosmosic Cafe** | Inspired by a real location in Richmond, VA called Galaxy Diner. A game based in a space themed cafe that sells out of this world concoctions and treats!|
+| **Deathrunners (WIP, Finish by Dec 8th)** | A 2D multiplayer scroller survival game based in a X themed environment where one player is chosen to be “Death” and tries to take out all of the other players by throwing obstacles/enemies/silly inconveniences in their way to prevent them from getting to safety. For everyone else the task is to survive!|
+| **Cosmosic Cafe (WIP)** | Inspired by a real location in Richmond, VA called Galaxy Diner. A game based in a space themed cafe that sells out of this world concoctions and treats!|
+| **ByteMart** | A console based tech hardware online shop with a menu driven UI. I may revisit this to add better GUI.|
 | **MIPS Assembler & CPU Processor** | Built from scratch for my Computer Organization class, the assembler turns MIPS instructions into binary. While the Processor takes the binary encoded instructions and processes them |
 | **Dresscode** | A simple web-based dress up game where users can drag and drop clothes and accessories onto a character. All assets and code are done by me! |
 
