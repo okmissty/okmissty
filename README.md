@@ -6,7 +6,7 @@
 💫 About Me:
 <br>⭐(Tie-on) she/her <br>
 
-[Windows XP Themed Linktree/Portfolio Site](tfportfolio.carrd.co)
+<a href="tfportfolio.carrd.co" onclick="window.open('tfportfolio.carrd.co');">Windows XP Themed Linktree/Portfolio Site</a>.
 
 <br>🌸 A natural leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. (Class of Spring 2027) I've been interested in computing from a young age and have been building up my skillset ever since. <br>
 <br>🌸 Interested in: Software Engineering, Game Development, Cloud Computing, Information Technology, Technical product Management<br>
