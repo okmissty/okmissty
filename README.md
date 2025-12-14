@@ -10,7 +10,7 @@
 
 <br>🌸 A natural leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. (Class of Spring 2027) I've been interested in computing from a young age and have been building up my skillset ever since. <br>
 <br>🌸 Interested in: Software Engineering, Game Development, Cloud Computing, Information Technology, Technical product Management<br>
-<br>🌸 Main Languages: Java, C++, Python, HTML <br>
+<br>🌸 Main Languages: Java, C++, Python, HTML, C# <br>
 <br>🌸 Current Side Projects: Cosmosic Cafe, Updating Portfolio Website/Blog, Updating my Dressup Game, preparing for hackathons (I'm running a hackathon at my University called SpiderHacks! Coming Dec 2025 or Spring 2025) <br><br>⭐ School makes it tough to have more projects! but I aim for making something new every break.
 
 Note: My old repositories were erased on my highschool github, so I'm rebuilding my porfolio here!
@@ -20,7 +20,7 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 
 | 🧩 Project | ⚙️ Description |
 |-----------|----------------|
-| **Deathrunners (WIP, Finish by Dec 8th)** | A 2D multiplayer scroller survival game based in a X themed environment where one player is chosen to be “Death” and tries to take out all of the other players by throwing obstacles/enemies/silly inconveniences in their way to prevent them from getting to safety. For everyone else the task is to survive!|
+| **Deathrunners (Prototype version)** | A 2D multiplayer scroller survival game based in a X themed environment where one player is chosen to be “Death” and tries to take out all of the other players by throwing obstacles/enemies/silly inconveniences in their way to prevent them from getting to safety. For everyone else the task is to survive!|
 | **Cosmosic Cafe (WIP)** | Inspired by a real location in Richmond, VA called Galaxy Diner. A game based in a space themed cafe that sells out of this world concoctions and treats!|
 | **ByteMart** | A console based tech hardware online shop with a menu driven UI. I may revisit this to add better GUI.|
 | **MIPS Assembler & CPU Processor** | Built from scratch for my Computer Organization class, the assembler turns MIPS instructions into binary. While the Processor takes the binary encoded instructions and processes them |
