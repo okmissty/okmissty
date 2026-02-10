@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, my name is Tyeon! 👋</h1>
 
 <p align="center">
-  <em> John Hopins Applied Physics Labatory </em></em>
+  <em> John Hopkins Applied Physics Labatory </em></em>
   <em> Summer 2026 Agile Information Solutions & Innovation Intern </em></em>
 </p>
 💫 About Me:
