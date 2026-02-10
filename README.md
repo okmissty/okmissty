@@ -1,7 +1,8 @@
 <h1 align="center">Hello World, my name is Tyeon! 👋</h1>
 
 <p align="center">
-  <em>Looking for a Summer 2026 Internship!</em>
+  <em> John Hopins Applied Physics Labatory </em></em>
+  <em> Summer 2026 Agile Information Solutions & Innovation Intern </em></em>
 </p>
 💫 About Me:
 <br>⭐(Tie-on) she/her <br>
