@@ -26,6 +26,13 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 | **Cosmosic Cafe (WIP)** | Inspired by a real location in Richmond, VA called Galaxy Diner. A game based in a space themed cafe that sells out of this world concoctions and treats!|
 | **Dresscode** | A simple web-based dress up game where users can drag and drop clothes and accessories onto a character. All assets and code are done by me! |
 
+### 🚧 Misc Projects 
+
+| 🧩 Project | ⚙️ Description |
+|-----------|----------------|
+| **ByteMart** | A console based tech hardware online shop with a menu driven UI. I may revisit this to add better GUI.|
+| **MIPS Assembler & CPU Processor** | Built from scratch for my Computer Organization class, the assembler turns MIPS instructions into binary. While the Processor takes the binary encoded instructions and processes them |
+
 
 ### 🚧 Web Based Projects 
 
@@ -34,12 +41,6 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 | **Portfolio** | https://tfportfolio.carrd.co/|
 | **My Wordpress blog (retired)** | https://tfordsblog.wordpress.com/|
 
-### 🚧 Misc Projects 
-
-| 🧩 Project | ⚙️ Description |
-|-----------|----------------|
-| **ByteMart** | A console based tech hardware online shop with a menu driven UI. I may revisit this to add better GUI.|
-| **MIPS Assembler & CPU Processor** | Built from scratch for my Computer Organization class, the assembler turns MIPS instructions into binary. While the Processor takes the binary encoded instructions and processes them |
 
 
 ### 💻 Tech Stack:
