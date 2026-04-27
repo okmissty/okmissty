@@ -27,6 +27,13 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 | **Dresscode** | A simple web-based dress up game where users can drag and drop clothes and accessories onto a character. All assets and code are done by me! |
 
 
+### 🚧 Web Based Projects 
+
+| 🧩 Project | ⚙️ Description |
+|-----------|----------------|
+| **Portfolio** | https://tfportfolio.carrd.co/|
+| **My Wordpress blog (retired)** | https://tfordsblog.wordpress.com/|
+
 ### 🚧 Misc Projects 
 
 | 🧩 Project | ⚙️ Description |
