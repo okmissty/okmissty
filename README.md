@@ -22,7 +22,7 @@ Note: My old repositories were erased on my highschool github, so I'm rebuilding
 | 🧩 Project | ⚙️ Description |
 |-----------|----------------|
 | **Deathrunners (Prototype version)** | A 2D multiplayer scroller survival game based in a X themed environment where one player is chosen to be “Death” and tries to take out all of the other players by throwing obstacles/enemies/silly inconveniences in their way to prevent them from getting to safety. For everyone else the task is to survive!|
-| **Guess What?** | A 2D html/js/css multiplayer game developed for my AI Game Development research Spring 2026. The user types in a prompt, the AI produces pictures based on the prompt. Each player has to guess what the other players typed in based on the pictures. Who ever guesses the closest gets the most points! |
+| **Guess What?** | A 2D html/js/css multiplayer game developed for my AI Game Development research Spring 2026. The user types in a prompt, the AI produces pictures based on the prompt. Each player has to guess what the other players typed in based on the pictures. Who ever guesses the closest gets the most points! (This repository is private due to it being incomplete research, I've made a public repository to display progress) |
 | **Cosmosic Cafe (WIP)** | Inspired by a real location in Richmond, VA called Galaxy Diner. A game based in a space themed cafe that sells out of this world concoctions and treats!|
 | **Dresscode** | A simple web-based dress up game where users can drag and drop clothes and accessories onto a character. All assets and code are done by me! |
 
