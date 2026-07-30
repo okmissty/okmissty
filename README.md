@@ -17,29 +17,30 @@
 Note: My old repositories were erased on my highschool github, so I'm rebuilding my porfolio here!
 
 
-### 🚧 Game Projects 
+### 🎮 Game Projects
 
 | 🧩 Project | ⚙️ Description |
 |-----------|----------------|
-| **Deathrunners (Prototype version)** | A 2D multiplayer scroller survival game based in a X themed environment where one player is chosen to be “Death” and tries to take out all of the other players by throwing obstacles/enemies/silly inconveniences in their way to prevent them from getting to safety. For everyone else the task is to survive!|
-| **Guess What?** | A 2D html/js/css multiplayer game developed for my AI Game Development research Spring 2026. The user types in a prompt, the AI produces pictures based on the prompt. Each player has to guess what the other players typed in based on the pictures. Who ever guesses the closest gets the most points! (This repository is private due to it being incomplete research, I've made a public repository to display progress) |
-| **Cosmosic Cafe (WIP)** | Inspired by a real location in Richmond, VA called Galaxy Diner. A game based in a space themed cafe that sells out of this world concoctions and treats!|
-| **Dresscode** | A simple web-based dress up game where users can drag and drop clothes and accessories onto a character. All assets and code are done by me! |
+| **Deathrunners** *(Prototype)* | A 2D multiplayer scroller survival game where one player is chosen as "Death" and tries to take out everyone else by throwing obstacles, enemies, and silly inconveniences in their path. Everyone else races to reach safety and survive. I also composed the game's original music. |
+| **Guess What?** | A 2D HTML/JS/CSS multiplayer game built for my AI Game Development research (Spring 2026). A player types a prompt, the AI generates pictures from it, and everyone else guesses what was typed based on the images. The closest guess scores the most points. *(Main repo is private while the research is in progress; a public repo tracks progress.)* |
+| **Cosmosic Cafe** *(WIP)* | A game set in a space-themed cafe that serves out-of-this-world concoctions and treats, inspired by a real spot in Richmond, VA called Galaxy Diner. |
+| **Dresscode** | A web-based dress-up game where users drag and drop clothes and accessories onto a character. Every asset and every line of code is my own. |
 
-### 🚧 Misc Projects 
-
-| 🧩 Project | ⚙️ Description |
-|-----------|----------------|
-| **ByteMart** | A console based tech hardware online shop with a menu driven UI. I may revisit this to add better GUI.|
-| **MIPS Assembler & CPU Processor** | Built from scratch for my Computer Organization class, the assembler turns MIPS instructions into binary. While the Processor takes the binary encoded instructions and processes them |
-
-
-### 🚧 Web Based Projects 
+### 🌐 Web Projects
 
 | 🧩 Project | ⚙️ Description |
 |-----------|----------------|
-| **Portfolio** | https://tfportfolio.carrd.co/|
-| **My Wordpress blog (retired)** | https://tfordsblog.wordpress.com/|
+| **Open Fleur** *(Remodel & Brand)* | Overhauled a static, serverless site on Cloudflare Pages, turning a mobile-only layout into a fully responsive experience across phone and desktop for a Virginia events collective. Refactored key pages to clear layout debt, built a mobile-first tabbed "Highlights" portal from reusable components, and engineered a private B2B analytics dashboard that visualizes event sales data for venue pitches. Zero backend. |
+| **Honnibear** *(Brand Site & Payments)* | Designed and built a fully custom, responsive storefront from scratch (no page builder) for a shop selling illustrated printable planners, trackers, and digital stickers. Matched the existing illustrated branding across every page, integrated Stripe Payment Links with a custom post-purchase download flow, and built a Commissions request page. Delivered documented code and a setup guide for independent updates. |
+| **ByteMart** | An online tech-hardware store with a retro terminal interface. Users browse products and build a cart by typing commands or clicking category filters (peripherals, displays, audio, storage). Designed and prototyped as an interactive Figma build. |
+| **Portfolio** | My Windows XP–themed portfolio and linktree. |
+| **WordPress Blog** *(retired)* | An earlier dev blog documenting my learning and projects. |
+
+### 🛠️ Systems & Misc Projects
+
+| 🧩 Project | ⚙️ Description |
+|-----------|----------------|
+| **MIPS Assembler & CPU Processor** | Built from scratch for my Computer Organization class. The assembler turns MIPS instructions into binary; the processor takes those binary-encoded instructions and executes them. |
 
 
 
