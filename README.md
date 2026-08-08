@@ -14,7 +14,7 @@
 <br>🌸 Main Languages: Java, C++, Python, HTML, C# <br>
 <br>🌸 Current Side Projects: Cosmosic Cafe, Updating Portfolio Website/Blog, Updating my Dressup Game <br><br>⭐ School makes it tough to have more projects! but I aim for making something new every break.
 
-Note: My old repositories were erased on my highschool github, so I'm rebuilding my porfolio here!
+Note: My old repositories were erased on my highschool github, so I'm rebuilding here!
 
 
 ### 🎮 Game Projects
