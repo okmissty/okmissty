@@ -1,21 +1,13 @@
 <h1 align="center">Hello World, my name is Tyeon! 👋</h1>
 
 <p align="center">
-  <em> Johns Hopkins Applied Physics Labatory </em></em>
-  <em> Summer 2026 Agile Information Solutions & Innovation Intern </em></em>
+  <em> Seeking New Grad and Part-Time roles! </em></em>
+  <em>  </em></em>
 </p>
 💫 About Me:
 <br>⭐(Tie-on) she/her <br>
 
 <a href="[tfportfolio.carrd.co](https://tyeon.netlify.app/)" onclick="window.open('https://tyeon.netlify.app/');">Windows XP Themed Linktree/Portfolio Site: [Portfolio](https://tyeon.netlify.app/)</a>.
-
-<br>🌸 A natural leader and a programmer figuring out my career after college! I'm currently studying Computer Science at University of Richmond, VA. (Class of Spring 2027) I've been interested in computing from a young age and have been building up my skillset ever since. <br>
-<br>🌸 Interested in: Software Engineering, Game Development, Cloud Computing, Information Technology, Technical product Management<br>
-<br>🌸 Main Languages: Java, C++, Python, HTML, C# <br>
-<br>🌸 Current Side Projects: Cosmosic Cafe, Updating Portfolio Website/Blog, Updating my Dressup Game <br><br>⭐ School makes it tough to have more projects! but I aim for making something new every break.
-
-Note: My old repositories were erased on my highschool github, so I'm rebuilding here!
-
 
 ### 🎮 Game Projects
 
