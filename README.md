@@ -20,7 +20,7 @@
 ### 🌐 Web Projects
 | 🧩 Project | ⚙️ Description | 🔧 Built With |
 |-----------|----------------|---------------|
-| **Open Fleur** *(Remodel & Brand)* | Overhauled a static, serverless site, turning a mobile-only layout into a fully responsive experience for a Virginia events collective. Built a mobile-first tabbed "Highlights" portal from reusable components and a private B2B analytics dashboard visualizing event sales data for venue pitches. | `Cloudflare Pages` · `responsive` · `analytics` |
+| **[Open Fleur](https://openfleur.co/)** *(Remodel & Brand)* | Overhauled a static, serverless site, turning a mobile-only layout into a fully responsive experience for a Virginia events collective. Built a mobile-first tabbed "Highlights" portal from reusable components and a private B2B analytics dashboard visualizing event sales data for venue pitches. | `Cloudflare Pages` · `responsive` · `analytics` |
 | **[Honnibear](https://github.com/okmissty/Honnibear_Website)** *(Brand Site & Payments)* | A fully custom, responsive storefront built from scratch (no page builder) for a shop selling illustrated planners, trackers, and digital stickers. Integrated Stripe Payment Links with a custom post-purchase download flow and a Commissions request page. Delivered documented code and a setup guide. | `HTML/CSS/JS` · `Stripe` |
 | **[ByteMart](https://github.com/okmissty/ByteMart)** | A tech-hardware store with a retro terminal interface: browse products and build a cart by typing commands or clicking filters. Originally a C++ console app, later reimagined as an interactive Figma prototype. | `C++` · `Figma` |
 | **[Portfolio](https://tyeon.netlify.app/)** | My Windows XP–themed portfolio and linktree. | `HTML/CSS/JS` |
