@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, my name is Tyeon! 👋</h1>
+<h1 align="center">Hello World, my name is Tyeon! </h1>
 <p align="center">
   <em>Seeking New Grad and Part-Time roles!</em>
 </p>
@@ -40,7 +40,7 @@
 ---
 
 ### 🏅 Selected Honors
-| 🏆 Honor | Details |
+| Honor | Details |
 |----------|---------|
 | **Dr. B. Lewis Barnett III Outstanding Service Award** | Awarded annually by the University of Richmond CS faculty to the student showing exceptional service to the department and academic community (2026). |
 | **Dean's List** | Westhampton College, University of Richmond. |
@@ -50,7 +50,7 @@
 
 ---
 
-### ✍️ Random Dev Quote of the Day
+### Random Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🌐 Socials
