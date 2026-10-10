@@ -14,7 +14,7 @@
 |-----------|----------------|---------------|
 | **[Deathrunners](https://github.com/okmissty/Deathrunners)** *(Prototype)* | A 2D multiplayer scroller survival game where one player is chosen as "Death" and tries to take out everyone else with obstacles, enemies, and silly inconveniences while everyone else races to safety. I also composed the original music. | `C++` · `multiplayer` · `2D` |
 | **[Guess What?](https://github.com/okmissty/GuessWhat-)** | A 2D HTML/JS/CSS multiplayer game built for my AI Game Development research (Spring 2026). A player types a prompt, an AI generates images from it, and everyone guesses the prompt from the pictures. *(Main repo private during research; this repo previews the game.)* | `HTML` · `JS` · `CSS` · `AI` |
-| **[Cosmosic Cafe](https://github.com/okmissty/cosmic_cafe)** *(WIP)* | A game set in a space-themed cafe serving out-of-this-world concoctions, inspired by Galaxy Diner in Richmond, VA. | `Godot` · `GDScript` |
+| **[Hyperfreeze](https://github.com/okmissty/hyperfreeze)** *(Alpha)* | A game set in a space-themed cafe serving out-of-this-world concoctions, inspired by Galaxy Diner in Richmond, VA. | `Godot` · `GDScript` |
 | **[Dresscode](https://github.com/okmissty/Dresscode)** | A web-based dress-up game where users drag and drop clothes onto a character. Every asset and line of code is my own. | `JavaScript` · `HTML/CSS` |
 
 ### 🌐 Web Projects
