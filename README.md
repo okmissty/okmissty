@@ -29,6 +29,7 @@
 | 🧩 Project | ⚙️ Description | 🔧 Built With |
 |-----------|----------------|---------------|
 | **[MIPS Assembler & CPU Processor](https://github.com/okmissty/MIPS-Assembler)** | Built from scratch for Computer Organization. The [assembler](https://github.com/okmissty/MIPS-Assembler) turns MIPS instructions into binary; the [CPU processor](https://github.com/okmissty/CPU-Processor) takes those binary-encoded instructions and executes them, a full toolchain from assembly to hardware. | `Assembly` · `Logisim` · `MIPS` |
+| **[Edinburgh AI Hackathon: BlackMail](https://github.com/tientnc/blackmail-eai-2026)** | Fully developed secure private messaging app built in six hours. I handled the front-end, AI integration, and design planning.[ Here is the Devpost to learn more: ](https://devpost.com/software/blackmail)  | `Node.js` · `redis` · `Nebius AI` | 
 
 ---
 
