@@ -30,7 +30,7 @@
 |-----------|----------------|---------------|
 | **[MIPS Assembler & CPU Processor](https://github.com/okmissty/MIPS-Assembler)** | Built from scratch for Computer Organization. The [assembler](https://github.com/okmissty/MIPS-Assembler) turns MIPS instructions into binary; the [CPU processor](https://github.com/okmissty/CPU-Processor) takes those binary-encoded instructions and executes them, a full toolchain from assembly to hardware. | `Assembly` · `Logisim` · `MIPS` |
 | **[Edinburgh AI Hackathon: BlackMail](https://github.com/tientnc/blackmail-eai-2026)** | Fully developed secure private messaging app built in six hours. I handled the front-end, AI integration, and design planning.[ Here is the Devpost to learn more: ](https://devpost.com/software/blackmail)  | `Node.js` · `redis` · `Nebius AI` | 
-| **[QRT x CompSoc Hackathon: Sponsored by OpenAI](https://github.com/okmissty/QRT-Hackathon)** | Team submission for a two-hour competitive programming hackathon. Solved optimization, logic, search, and heuristic reconstruction challenges, including square packing, word-search generation, black-box probing, Masyu solving, and document reconstruction. | `Python` · `C++` · `Algorithms` |
+| **[QRT x CompSoc Hackathon: Sponsored by OpenAI](https://github.com/okmissty/QRT-Hackathon)** | Team submission for a three-hour competitive programming hackathon. Solved optimization, logic, search, and heuristic reconstruction challenges, including square packing, word-search generation, black-box probing, Masyu solving, and document reconstruction. | `Python` · `C++` · `Algorithms` |
 
 ---
 
